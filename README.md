@@ -1,3 +1,3 @@
 # Key-Python-Coding-Tasks
-This is a collection and for keeping track of example codes for executing tasks
- in Python
+This is a collection for keeping track of example codes for executing key tasks
+in the Python language.
